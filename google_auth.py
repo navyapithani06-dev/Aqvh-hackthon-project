@@ -83,3 +83,4 @@ def handle_google_callback():
     except Exception as e:
         st.error(f"Google authentication failed: {e}")
         return False
+ # google update
